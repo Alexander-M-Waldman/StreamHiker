@@ -12,7 +12,7 @@ Finally, the program calculates network flow characteristics for use in aggregat
 
 For usage instructions, please see the wikipage (https://github.com/ANSDU-Patrick-Center-for-Env-Research/StreamHiker/wiki) which also details issues and next steps!
 
-For more information, plesae contact Alex Waldman: amw47@drexel.edu
+For more information, plesae contact Alex Waldman: awaldman1@gmail.com
 
 ### License Info:
 
